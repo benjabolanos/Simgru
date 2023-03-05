@@ -6,10 +6,37 @@ SIMGRU es un sistema de rutas y transporte público. Con este sistema el usuario
 
 
 
+
 ## Diagramas de la arquitectura
 
-![Diagrama de Algo](resources/App Movil Clases.png)
-## Requerimientos para ejecutar el código
+### Casos de Uso
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/SIMGRU%20Casos%20de%20Uso.png" alt="Alt text" title="Optional title" height="500">
+
+### Vista Lógica
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/Vista%20Logica1.png" alt="Alt text" title="Optional title" height="500">
+
+### Diagrama de Clases de Aplicación Web
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/App%20Web%20Clases.png" alt="Alt text" title="Optional title" height="500">
+
+### Diagrama de Clases de Aplicación Móvil
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/App%20Movil%20Clases.png" alt="Alt text" title="Optional title" height="500">
+
+### Diagrama de Clases de Backend
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/BackendClases.png" alt="Alt text" title="Optional title" height="500">
+
+### Diagramas de Procesos
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/App%20Movil%20Clases.png" alt="Alt text" title="Optional title" height="500">
+
+### Vista de Despliegue
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/DeploymentDiagram1.png" alt="Alt text" title="Optional title" height="500">
+
+### Vista de Implementación
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/ComponentDiagram1.png" alt="Alt text" title="Optional title" height="500">
+
+### Vista de Data
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/Base%20de%20datos.png" alt="Alt text" title="Optional title" height="500">
+
+
 
 **Client:** VueJS
 
@@ -62,9 +89,3 @@ Con este proceso se tendrán ambos servidores creados y corriendo.
 ## Authors
 
 - [Benjamin Bolaños](https://www.github.com/benjabolanos)
-
-
-## Diagramas de Arquitectura
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
