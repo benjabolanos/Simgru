@@ -25,7 +25,12 @@ SIMGRU es un sistema de rutas y transporte público. Con este sistema el usuario
 <img src="https://github.com/benjabolanos/Simgru/blob/master/resources/BackendClases.png" alt="Alt text" title="Optional title" height="500">
 
 ### Diagramas de Procesos
-<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/App%20Movil%20Clases.png" alt="Alt text" title="Optional title" height="500">
+
+#### Secuencia General
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/SecuenciaSIMGRU.png" alt="Alt text" title="Optional title" height="500">
+
+#### Secuencia Microcontrolador
+<img src="https://github.com/benjabolanos/Simgru/blob/master/resources/SecuenciaMicrocontrolador.png" alt="Alt text" title="Optional title" height="500">
 
 ### Vista de Despliegue
 <img src="https://github.com/benjabolanos/Simgru/blob/master/resources/DeploymentDiagram1.png" alt="Alt text" title="Optional title" height="500">
@@ -35,6 +40,8 @@ SIMGRU es un sistema de rutas y transporte público. Con este sistema el usuario
 
 ### Vista de Data
 <img src="https://github.com/benjabolanos/Simgru/blob/master/resources/Base%20de%20datos.png" alt="Alt text" title="Optional title" height="500">
+
+
 
 
 
