@@ -42,8 +42,7 @@ SIMGRU es un sistema de rutas y transporte público. Con este sistema el usuario
 <img src="https://github.com/benjabolanos/Simgru/blob/master/resources/Base%20de%20datos.png" alt="Alt text" title="Optional title" height="500">
 
 
-
-
+## Requerimientos para ejecutar el código
 
 **Client:** VueJS
 
